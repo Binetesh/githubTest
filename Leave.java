@@ -4,7 +4,7 @@
 package com.sita.beans;
 
 /**
- * @author Kuldeep.Singh
+ * @author Binetesh.Thakur
  *
  */
 public class Leave {
